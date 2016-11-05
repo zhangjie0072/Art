@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <component id="n0" name="n0" src="fm8x4" xy="142,166"/>
+    <component id="n1" name="n1" src="fm8x4" xy="390,164"/>
+    <image id="n3" name="n3" src="fm8x2" xy="410,407" size="130,38"/>
+    <text id="n2" name="label_text" xy="243,452" size="130,30" font="迷你简铁筋隶书" fontSize="24" color="#ffffff" autoSize="none" text="我是中国人"/>
+    <graph id="n4" name="mask" xy="255,412" size="100,100" forMask="true"/>
+  </displayList>
+</component>

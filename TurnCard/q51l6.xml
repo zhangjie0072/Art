@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="363,505" pivot="0.5,0.5">
+  <displayList>
+    <image id="n0" name="n0" src="89hp0" xy="0,0"/>
+    <graph id="n1" name="n1" xy="21,54" size="100,100" type="rect" fillColor="#ffff9933"/>
+    <graph id="n2" name="n2" xy="119,150" size="100,100" type="rect" fillColor="#ffff9933"/>
+    <graph id="n3" name="n3" xy="222,250" size="100,100" type="rect" fillColor="#ffff9933"/>
+    <graph id="n4" name="n4" xy="219,56" size="100,100" type="rect" fillColor="#ffff9933"/>
+    <graph id="n5" name="n5" xy="22,251" size="100,100" type="rect" fillColor="#ffff9933"/>
+  </displayList>
+</component>

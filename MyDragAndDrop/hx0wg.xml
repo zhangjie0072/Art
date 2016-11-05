@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="135,50" extention="Label">
+  <displayList>
+    <text id="n0" name="title" xy="0,0" size="434,30" font="迷你简铁筋隶书" fontSize="24" color="#ff3366" bold="true" text="&lt;--世界还小我陪你去到天涯海角-->"/>
+    <graph id="n1" name="mask" xy="0,-32" size="146,90" type="rect" forMask="true"/>
+  </displayList>
+  <transition name="label_move" autoPlayRepeat="-1">
+    <item time="0" type="XY" target="n0" label="first_pos" tween="true" startValue="0,-" endValue="-299,-" duration="72" ease="Linear" label2="last_pos"/>
+    <item time="72" type="XY" target="n0" label="last_pos" tween="true" startValue="-299,-" endValue="0,-" duration="72" ease="Linear" label2="star_pos"/>
+    <item time="144" type="XY" target="n0" label="star_pos" tween="true" startValue="0,-" ease="Linear"/>
+  </transition>
+</component>

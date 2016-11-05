@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="olan5v3o" jpegQuality="80" compressPNG="true">
+  <resources>
+    <folder id="jcqd0" name="img" folder=""/>
+    <folder id="jcqd1" name="compoment" folder=""/>
+    <folder id="jcqd2" name="win" folder=""/>
+    <image id="jcqd3" name="Seperator1" folder="jcqd0" qualityOption="source" file="jcqd3.png" size="39,2" includedInAtlas="1"/>
+    <image id="jcqd4" name="logo" folder="jcqd0" qualityOption="source" file="jcqd4.jpg" size="86,86"/>
+    <component id="jcqd5" name="Main" folder="jcqd2" file="jcqd5.xml" exported="true"/>
+    <component id="jcqd6" name="item" folder="jcqd1" file="jcqd6.xml"/>
+    <component id="jcqd7" name="Button1" folder="jcqd1" file="jcqd7.xml"/>
+    <component id="jcqd8" name="Button2" folder="jcqd1" file="jcqd8.xml"/>
+    <component id="jcqd9" name="Box" folder="jcqd1" file="jcqd9.xml"/>
+  </resources>
+  <publish name="ScrollPane"/>
+</packageDescription>

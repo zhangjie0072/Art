@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projectDescription name="" type="Unity" id="0de089885ec16eb2d0bba6b2f5f68fc6">
+  <packages>
+    <package id="ju4y74ou" name="MyDragAndDrop"/>
+    <package id="sndtfbfw" name="Extension"/>
+    <package id="olan5v3o" name="ScrollPane"/>
+    <package id="uqtqvlfd" name="TurnCard"/>
+  </packages>
+  <textSetting font="宋体" size="12"/>
+  <scrollBars/>
+</projectDescription>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,200">
+  <displayList>
+    <graph id="n0" name="n0" xy="0,0" size="400,200" type="rect" fillColor="#ffffcc66"/>
+    <text id="n1" name="n1" xy="35,54" size="329,92" input="true" font="迷你简铁筋隶书" fontSize="26" color="#3300ff" autoSize="none" bold="true" text="sdf "/>
+  </displayList>
+</component>

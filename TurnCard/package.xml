@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="uqtqvlfd" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="89hp0" name="card_a" folder="q51l7" qualityOption="source" file="89hp0.png" size="363,505"/>
+    <image id="89hp1" name="card_back" folder="q51l7" qualityOption="source" file="89hp1.png" size="362,505"/>
+    <image id="89hp2" name="card_k" folder="q51l7" qualityOption="source" file="89hp2.png" size="363,505"/>
+    <component id="89hp3" name="CardComponent" folder="q51l8" file="89hp3.xml"/>
+    <component id="89hp4" name="Main" folder="" file="89hp4.xml" exported="true"/>
+    <component id="q51l5" name="Card_01" folder="q51l8" file="q51l5.xml"/>
+    <component id="q51l6" name="Card_02" folder="q51l8" file="q51l6.xml"/>
+    <folder id="q51l7" name="img" folder=""/>
+    <folder id="q51l8" name="comp" folder=""/>
+    <component id="q51l9" name="Card_Comp" folder="q51l8" file="q51l9.xml"/>
+    <component id="q51la" name="OnecardMain" folder="" file="q51la.xml" exported="true"/>
+  </resources>
+  <publish name="TurnCard"/>
+</packageDescription>

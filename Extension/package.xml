@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="sndtfbfw" jpegQuality="80" compressPNG="true">
+  <resources>
+    <folder id="kuwo0" name="images" folder=""/>
+    <image id="kuwo1" name="gsia2" folder="kuwo0" qualityOption="source" file="kuwo1.png" size="261,63"/>
+    <image id="kuwo2" name="gsia1" folder="kuwo0" qualityOption="source" file="kuwo2.png" size="50,62"/>
+    <image id="kuwo3" name="gsiaf" folder="kuwo0" qualityOption="source" file="kuwo3.png" size="143,120"/>
+    <image id="kuwo4" name="gsiae" folder="kuwo0" qualityOption="source" file="kuwo4.png" size="55,47"/>
+    <image id="kuwo5" name="gsiad" folder="kuwo0" qualityOption="source" file="kuwo5.png" size="55,59"/>
+    <image id="kuwo6" name="gsiac" folder="kuwo0" qualityOption="source" file="kuwo6.png" size="71,71"/>
+    <image id="kuwo7" name="gsia9" folder="kuwo0" qualityOption="source" file="kuwo7.png" size="108,108" scale="9grid" scale9grid="17,16,74,73"/>
+    <image id="kuwo8" name="gsia8" folder="kuwo0" qualityOption="source" file="kuwo8.png" size="78,141" scale="9grid" scale9grid="25,26,26,90"/>
+    <image id="kuwo9" name="gsia3" folder="kuwo0" qualityOption="source" file="kuwo9.png" size="133,34"/>
+    <component id="kuwoa" name="mailItem" folder="" file="kuwoa.xml"/>
+  </resources>
+  <publish/>
+</packageDescription>

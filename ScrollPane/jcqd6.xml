@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="720,88" overflow="scroll" scroll="horizontal" extention="Button">
+  <displayList>
+    <loader id="n0" name="icon" xy="7,8" size="64,64" url="ui://olan5v3ojcqd4" align="center" vAlign="middle" fill="scaleFree"/>
+    <image id="n1" name="n1" src="jcqd3" xy="0,86" size="1000,2">
+      <relation target="" sidePair="width-width,bottom-bottom"/>
+    </image>
+    <component id="n2" name="b0" src="jcqd7" xy="720,0"/>
+    <component id="n3" name="b1" src="jcqd8" xy="860,0"/>
+    <text id="n4" name="title" xy="80,7" size="530,28" fontSize="24" autoSize="height" singleLine="true" text="Item">
+      <relation target="" sidePair="width-width"/>
+    </text>
+    <text id="n5" name="desc" xy="80,44" size="553,28" fontSize="24" color="#cccccc" autoSize="height" text="Message">
+      <relation target="" sidePair="width-width"/>
+    </text>
+    <text id="n6" name="time" xy="626,7" size="82,28" fontSize="24" color="#cccccc" align="right" autoSize="none" text="15:02">
+      <relation target="" sidePair="right-right"/>
+    </text>
+  </displayList>
+  <Button/>
+</component>

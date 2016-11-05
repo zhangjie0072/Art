@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <component id="n6" name="label_long" src="hx0wg" xy="322,279" size="300,29">
+      <Label title="&lt;-- 世界还小我陪你去看天涯海角 -->"/>
+    </component>
+    <component id="n12" name="label_short" src="hx0wg" xy="315,393">
+      <Label title="&lt;-- 中华人民共和国 -->"/>
+    </component>
+    <component id="n14" name="textfield" src="xunzh" xy="19,30"/>
+    <image id="n15" name="image_origin" src="fm8x1" xy="58,273"/>
+    <component id="n16" name="n16" src="duwkl" xy="517,76"/>
+    <graph id="n18" name="hodler" xy="230,195" size="65,58"/>
+  </displayList>
+</component>

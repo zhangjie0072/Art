@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="ju4y74ou" jpegQuality="80" compressPNG="true">
+  <resources>
+    <folder id="fm8x0" name="img" folder=""/>
+    <image id="fm8x1" name="k2" folder="fm8x0" qualityOption="source" file="fm8x1.png" size="100,100" exported="true"/>
+    <image id="fm8x2" name="k0" folder="fm8x0" qualityOption="source" file="fm8x2.png" size="90,91" exported="true"/>
+    <folder id="fm8x3" name="comp" folder=""/>
+    <component id="fm8x4" name="BagGridSub" folder="fm8x3" file="fm8x4.xml"/>
+    <image id="fm8x5" name="huawen1.png" folder="fm8x0" qualityOption="source" file="fm8x5.png" size="85,59" exported="true"/>
+    <folder id="fm8x6" name="win" folder=""/>
+    <component id="fm8x7" name="drag_and_drop" folder="fm8x6" file="fm8x7.xml" exported="true"/>
+    <image id="fm8x8" name="r3" folder="fm8x0" qualityOption="source" file="fm8x8.png" size="90,90" exported="true"/>
+    <image id="fm8x9" name="r4" folder="fm8x0" qualityOption="source" file="fm8x9.png" size="89,90" exported="true"/>
+    <folder id="b1qsb" name="comp" folder="fm8x6"/>
+    <image id="t4mvf" name="SSII_UI_Button_UMagic_BG" folder="fm8x0" qualityOption="source" file="t4mvf.png" size="125,125" exported="true"/>
+    <component id="hx0wg" name="label" folder="b1qsb" file="hx0wg.xml"/>
+    <component id="xunzh" name="TextFieldComp" folder="b1qsb" file="xunzh.xml"/>
+    <component id="r1rli" name="TestAnim" folder="b1qsb" file="r1rli.xml"/>
+    <jta id="duwkj" name="quan" folder="fm8x0" origin="60,60" file="duwkj.jta" size="120,119"/>
+    <image id="duwkk" name="btnimage" folder="fm8x0" qualityOption="source" file="duwkk.png" size="86,99"/>
+    <component id="duwkl" name="BagComp" folder="fm8x3" file="duwkl.xml"/>
+  </resources>
+  <publish name="MyDragAndDrop"/>
+</packageDescription>

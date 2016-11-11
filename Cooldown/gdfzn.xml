@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="60,60" extention="Button">
+  <displayList>
+    <image id="n0" name="n0" src="gdfzj" xy="0,0" size="60,60" visible="false"/>
+    <loader id="n1" name="icon" xy="0,0" size="60,60"/>
+    <image id="n3" name="n3" src="gdfzj" xy="0,0" size="60,60"/>
+    <image id="n2" name="mask" src="gdfzk" xy="3,3" size="54,54" alpha="0.6" fillMethod="radial360" fillClockwise="false"/>
+  </displayList>
+  <Button/>
+</component>

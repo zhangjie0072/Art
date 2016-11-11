@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="lrmzqvx8" jpegQuality="80" compressPNG="true">
+  <resources>
+    <folder id="gdfz0" name="img" folder=""/>
+    <image id="gdfz1" name="0(4).png" folder="gdfz0" qualityOption="source" file="gdfz1.png" size="41,45"/>
+    <image id="gdfz2" name="1(4).png" folder="gdfz0" qualityOption="source" file="gdfz2.png" size="41,45"/>
+    <image id="gdfz3" name="2(4).png" folder="gdfz0" qualityOption="source" file="gdfz3.png" size="41,45"/>
+    <image id="gdfz4" name="3(4).png" folder="gdfz0" qualityOption="source" file="gdfz4.png" size="41,45"/>
+    <image id="gdfz5" name="4(4).png" folder="gdfz0" qualityOption="source" file="gdfz5.png" size="41,45"/>
+    <image id="gdfz6" name="5(4).png" folder="gdfz0" qualityOption="source" file="gdfz6.png" size="41,45"/>
+    <image id="gdfz7" name="6(4).png" folder="gdfz0" qualityOption="source" file="gdfz7.png" size="41,45"/>
+    <image id="gdfz8" name="7(4).png" folder="gdfz0" qualityOption="source" file="gdfz8.png" size="41,45"/>
+    <image id="gdfz9" name="8(4).png" folder="gdfz0" qualityOption="source" file="gdfz9.png" size="41,45"/>
+    <image id="gdfza" name="9(4).png" folder="gdfz0" qualityOption="source" file="gdfza.png" size="41,45"/>
+    <font id="gdfzb" name="cdtime" folder="" file="gdfzb.fnt" exported="true"/>
+    <folder id="gdfzc" name="comp" folder=""/>
+    <folder id="gdfzd" name="win" folder=""/>
+    <component id="gdfze" name="Main" folder="gdfzd" file="gdfze.xml" exported="true"/>
+    <image id="gdfzg" name="11" folder="gdfz0" qualityOption="source" file="gdfzg.png" size="127,127"/>
+    <image id="gdfzh" name="12" folder="gdfz0" qualityOption="source" file="gdfzh.png" size="82,82"/>
+    <image id="gdfzi" name="13" folder="gdfz0" qualityOption="source" file="gdfzi.png" size="127,127"/>
+    <image id="gdfzj" name="14" folder="gdfz0" file="gdfzj.png" size="40,40" scale="9grid" scale9grid="10,10,20,20" qualityOption="source"/>
+    <image id="gdfzk" name="15" folder="gdfz0" file="gdfzk.png" size="40,40" scale="9grid" scale9grid="10,10,20,20" qualityOption="source"/>
+    <image id="gdfzl" name="mask0" folder="gdfz0" qualityOption="source" file="gdfzl.png" size="48,48"/>
+    <image id="gdfzm" name="mask1" folder="gdfz0" qualityOption="source" file="gdfzm.png" size="80,80"/>
+    <component id="gdfzn" name="Button1" folder="gdfzc" file="gdfzn.xml"/>
+    <component id="gdfzo" name="Button2" folder="gdfzc" file="gdfzo.xml"/>
+  </resources>
+  <publish name="Cooldown"/>
+</packageDescription>

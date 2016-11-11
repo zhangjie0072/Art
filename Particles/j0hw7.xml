@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="300,140" extention="Button">
+  <displayList>
+    <graph id="n0" name="n0" xy="0,0" size="300,140" type="rect" fillColor="#ffffcc33"/>
+    <text id="n1" name="title" xy="40,34" size="219,76" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#000000" text=""/>
+  </displayList>
+  <Button downEffect="scale" downEffectValue="0.80"/>
+</component>

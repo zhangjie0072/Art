@@ -5,6 +5,8 @@
     <package id="sndtfbfw" name="Extension"/>
     <package id="olan5v3o" name="ScrollPane"/>
     <package id="uqtqvlfd" name="TurnCard"/>
+    <package id="zgr8rxcg" name="Particles"/>
+    <package id="lrmzqvx8" name="Cooldown"/>
   </packages>
   <textSetting font="宋体" size="12"/>
   <scrollBars/>

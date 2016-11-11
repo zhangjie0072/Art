@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="zgr8rxcg" jpegQuality="80" compressPNG="true">
+  <resources>
+    <folder id="j0hw0" name="img" folder=""/>
+    <image id="j0hw1" name="change" folder="j0hw0" qualityOption="source" file="j0hw1.png" size="282,500"/>
+    <jta id="j0hw2" name="pet" folder="j0hw0" origin="59,61" file="j0hw2.jta" size="84,74"/>
+    <component id="j0hw3" name="CoolComponent" folder="j0hw4" file="j0hw3.xml"/>
+    <folder id="j0hw4" name="comp" folder=""/>
+    <folder id="j0hw5" name="win" folder=""/>
+    <component id="j0hw6" name="Main" folder="j0hw5" file="j0hw6.xml" exported="true"/>
+    <component id="j0hw7" name="Button" folder="j0hw4" file="j0hw7.xml"/>
+  </resources>
+  <publish name="Particles"/>
+</packageDescription>

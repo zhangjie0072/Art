@@ -13,5 +13,5 @@
     <image id="kuwo9" name="gsia3" folder="kuwo0" qualityOption="source" file="kuwo9.png" size="133,34"/>
     <component id="kuwoa" name="mailItem" folder="" file="kuwoa.xml"/>
   </resources>
-  <publish/>
+  <publish name="Extension"/>
 </packageDescription>

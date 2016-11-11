@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <displayList>
+    <text id="n0" name="n0" xy="152,54" size="580,74" font="ui://lrmzqvx8gdfzb" fontSize="28" autoSize="none" text="1234567890"/>
+    <component id="n1" name="b0" src="gdfzn" xy="193,306"/>
+    <component id="n2" name="b1" src="gdfzo" xy="363,293"/>
+  </displayList>
+</component>

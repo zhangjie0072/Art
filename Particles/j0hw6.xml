@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <displayList>
+    <image id="n0" name="n0" src="j0hw1" xy="52,46"/>
+    <graph id="n1" name="holder" xy="199,454" size="63,48"/>
+    <component id="n2" name="n2" src="j0hw3" xy="607,158"/>
+    <component id="n3" name="n3" src="j0hw3" xy="829,368"/>
+    <component id="n4" name="button" src="j0hw7" xy="411,430">
+      <Button title="Click Me"/>
+    </component>
+  </displayList>
+</component>

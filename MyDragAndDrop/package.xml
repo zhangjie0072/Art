@@ -19,6 +19,11 @@
     <jta id="duwkj" name="quan" folder="fm8x0" origin="60,60" file="duwkj.jta" size="120,119"/>
     <image id="duwkk" name="btnimage" folder="fm8x0" qualityOption="source" file="duwkk.png" size="86,99"/>
     <component id="duwkl" name="BagComp" folder="fm8x3" file="duwkl.xml"/>
+    <component id="dhbhm" name="MyProgressBar" folder="fm8x3" file="dhbhm.xml"/>
+    <component id="gtg9n" name="MySlider_grip" folder="fm8x3" file="gtg9n.xml"/>
+    <component id="gtg9o" name="MySlider" folder="fm8x3" file="gtg9o.xml"/>
+    <component id="gtg9p" name="MySlider222_grip" folder="fm8x3" file="gtg9p.xml"/>
+    <component id="gtg9q" name="MySlider222" folder="fm8x3" file="gtg9q.xml"/>
   </resources>
   <publish name="MyDragAndDrop"/>
 </packageDescription>

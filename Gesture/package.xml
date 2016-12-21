@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="24tv6v9v" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="x9fu0" name="GestureWin" folder="" file="x9fu0.xml" exported="true"/>
+  </resources>
+  <publish name="Gesture"/>
+</packageDescription>

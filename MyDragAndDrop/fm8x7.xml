@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="800,600">
+  <controller name="c1" pages="0,1,1,1" selected="1"/>
   <displayList>
-    <component id="n6" name="label_long" src="hx0wg" xy="322,279" size="300,29">
+    <component id="n6" name="label_long" src="hx0wg" xy="128,472" size="300,29" visible="false">
       <Label title="&lt;-- 世界还小我陪你去看天涯海角 -->"/>
     </component>
-    <component id="n12" name="label_short" src="hx0wg" xy="315,393">
+    <component id="n12" name="label_short" src="hx0wg" xy="315,393" visible="false">
       <Label title="&lt;-- 中华人民共和国 -->"/>
     </component>
-    <component id="n14" name="textfield" src="xunzh" xy="19,30"/>
-    <image id="n15" name="image_origin" src="fm8x1" xy="58,273" fillMethod="hz"/>
-    <component id="n16" name="n16" src="duwkl" xy="517,76"/>
-    <graph id="n18" name="hodler" xy="230,195" size="65,58"/>
-    <component id="n19" name="progress_01" src="dhbhm" xy="331,506" size="233,48">
-      <ProgressBar value="89" max="100"/>
+    <component id="n14" name="textfield" src="xunzh" xy="19,30" visible="false"/>
+    <image id="n15" name="image_origin" src="fm8x1" xy="58,273" visible="false" fillMethod="hz"/>
+    <component id="n16" name="n16" src="duwkl" xy="473,55" visible="false"/>
+    <graph id="n18" name="hodler" xy="49,191" size="65,58" visible="false"/>
+    <component id="n19" name="progress_01" src="dhbhm" xy="80,367" size="567,48">
+      <ProgressBar value="1" max="100"/>
     </component>
-    <image id="n21" name="image" src="fm8x2" xy="465,447" size="90,46" fillMethod="hz" fillAmount="52"/>
-    <component id="n23" name="slider01" src="gtg9o" xy="86,436" size="45,36">
+    <image id="n21" name="image" src="fm8x2" xy="465,447" size="90,46" visible="false" fillMethod="hz" fillAmount="52"/>
+    <component id="n23" name="slider01" src="gtg9o" xy="86,436" size="45,36" visible="false">
       <Slider value="50" max="100"/>
     </component>
-    <component id="n25" name="slider02" src="gtg9q" xy="113,518" size="181,63">
+    <component id="n25" name="slider02" src="gtg9q" xy="113,518" size="181,63" visible="false">
       <Slider value="57" max="100"/>
     </component>
+    <component id="n26" name="my_button" src="km0cr" xy="574,234" size="128,49"/>
+    <text id="n27" name="type_text" xy="133,184" size="400,58" fontSize="16" align="center" vAlign="middle" autoSize="none" text="type"/>
   </displayList>
 </component>

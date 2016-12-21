@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1920,1080">
+  <displayList>
+    <component id="n8" name="photo_01" src="ku4j4" xy="910,490">
+      <Button icon="ui://s5a7s4ocgash9"/>
+    </component>
+    <component id="n9" name="photo_02" src="ku4j4" xy="1204,504"/>
+    <component id="n10" name="flower_01" src="ku4j0" xy="857,475" size="115,30">
+      <Button icon="ui://s5a7s4ocgasha"/>
+    </component>
+    <component id="n11" name="flower_02" src="ku4j0" xy="1270,493"/>
+  </displayList>
+</component>

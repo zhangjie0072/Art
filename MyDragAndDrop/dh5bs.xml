@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="400,400">
+  <displayList>
+    <graph id="n0" name="n0" xy="-1,0" size="403,402" type="rect" fillColor="#ffffcccc"/>
+    <text id="n2" name="n2" xy="94,227" size="174,55" fontSize="34" align="center" vAlign="middle" autoSize="none" bold="true" text="lowlowlow"/>
+    <text id="n1" name="n1" xy="94,65" size="174,55" fontSize="34" color="#cc3366" align="center" vAlign="middle" autoSize="none" bold="true" text="upupupup"/>
+  </displayList>
+  <transition name="low_to_up">
+    <item time="0" type="Alpha" target="n1" tween="true" startValue="1" endValue="0" duration="12"/>
+    <item time="0" type="XY" target="n2" tween="true" startValue="94,205" endValue="94,64" duration="12"/>
+    <item time="12" type="Alpha" target="n1" tween="true" startValue="0"/>
+    <item time="12" type="XY" target="n2" tween="true" startValue="94,64"/>
+  </transition>
+  <transition name="show_low">
+    <item time="0" type="Visible" target="n1" value="false"/>
+  </transition>
+  <transition name="show_up">
+    <item time="0" type="Visible" target="n2" value="false"/>
+  </transition>
+  <transition name="hide_up">
+    <item time="0" type="Alpha" target="n1" tween="true" startValue="1" endValue="0" duration="24"/>
+    <item time="24" type="Alpha" target="n1" tween="true" startValue="0"/>
+  </transition>
+  <transition name="hide_low">
+    <item time="0" type="Alpha" target="n2" tween="true" startValue="1" endValue="0" duration="24"/>
+    <item time="24" type="Alpha" target="n2" tween="true" startValue="0"/>
+  </transition>
+</component>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="vziiq7tf" jpegQuality="80" compressPNG="true">
+  <resources>
+    <folder id="d2k00" name="emoji" folder=""/>
+    <jta id="d2k01" name="88" folder="d2k00" file="d2k01.jta" size="24,24" origin="0,0" exported="true"/>
+    <jta id="d2k02" name="am" folder="d2k00" file="d2k02.jta" size="24,24" origin="0,0" exported="true"/>
+    <jta id="d2k03" name="bs" folder="d2k00" file="d2k03.jta" size="24,24" origin="0,0" exported="true"/>
+    <jta id="d2k04" name="bz" folder="d2k00" file="d2k04.jta" size="24,24" origin="0,0" exported="true"/>
+    <jta id="d2k05" name="ch" folder="d2k00" file="d2k05.jta" size="24,24" origin="0,0" exported="true"/>
+    <jta id="d2k06" name="cool" folder="d2k00" file="d2k06.jta" size="24,24" origin="0,0" exported="true"/>
+    <jta id="d2k07" name="dhq" folder="d2k00" file="d2k07.jta" size="24,24" origin="0,0" exported="true"/>
+    <jta id="d2k08" name="dn" folder="d2k00" file="d2k08.jta" size="24,24" origin="0,0" exported="true"/>
+    <jta id="d2k09" name="fd" folder="d2k00" file="d2k09.jta" size="24,24" origin="0,0" exported="true"/>
+    <jta id="d2k0a" name="gz" folder="d2k00" file="d2k0a.jta" size="24,24" origin="0,0" exported="true"/>
+    <jta id="d2k0b" name="han" folder="d2k00" file="d2k0b.jta" size="24,24" origin="0,0" exported="true"/>
+    <jta id="d2k0c" name="hx" folder="d2k00" file="d2k0c.jta" size="24,24" origin="0,0" exported="true"/>
+    <jta id="d2k0d" name="hxiao" folder="d2k00" file="d2k0d.jta" size="24,24" origin="0,0" exported="true"/>
+    <jta id="d2k0e" name="hxiu" folder="d2k00" file="d2k0e.jta" size="24,24" origin="0,0" exported="true"/>
+    <folder id="d2k0f" name="images" folder=""/>
+    <image id="d2k0g" name="0" folder="d2k0f" file="d2k0g.png" size="173,74" scale="9grid" scale9grid="40,17,80,34" qualityOption="source"/>
+    <image id="d2k0h" name="1" folder="d2k0f" file="d2k0h.png" size="163,69" scale="9grid" scale9grid="40,17,80,34" qualityOption="source"/>
+    <image id="d2k0i" name="2" folder="d2k0f" file="d2k0i.png" size="108,108" scale="9grid" scale9grid="17,16,74,73" qualityOption="source"/>
+    <image id="d2k0j" name="3" folder="d2k0f" file="d2k0j.png" size="50,62" scale="9grid" scale9grid="10,15,28,32" qualityOption="source"/>
+    <image id="d2k0k" name="4" folder="d2k0f" file="d2k0k.png" size="9,206" scale="9grid" scale9grid="2,6,4,193" qualityOption="source"/>
+    <image id="d2k0l" name="5" folder="d2k0f" qualityOption="source" file="d2k0l.png" size="9,376" scale="9grid" scale9grid="3,9,2,360"/>
+    <image id="d2k0m" name="6" folder="d2k0f" file="d2k0m.png" size="377,48" scale="9grid" scale9grid="27,21,334,18" qualityOption="source"/>
+    <image id="d2k0n" name="7" folder="d2k0f" file="d2k0n.png" size="277,79" scale="9grid" scale9grid="19,23,229,37" qualityOption="source"/>
+    <image id="d2k0o" name="8" folder="d2k0f" qualityOption="source" file="d2k0o.png" size="71,71"/>
+    <image id="d2k0p" name="9" folder="d2k0f" file="d2k0p.png" size="48,40" scale="9grid" scale9grid="12,10,24,20" qualityOption="source"/>
+    <image id="d2k0q" name="r0" folder="d2k0f" qualityOption="source" file="d2k0q.png" size="117,120" exported="true"/>
+    <image id="d2k0r" name="r1" folder="d2k0f" qualityOption="source" file="d2k0r.png" size="120,120" exported="true"/>
+    <folder id="d2k0s" name="comp" folder=""/>
+    <component id="d2k0t" name="Button" folder="d2k0s" file="d2k0t.xml"/>
+    <component id="d2k0u" name="Button2" folder="d2k0s" file="d2k0u.xml"/>
+    <component id="d2k0v" name="EmojiSelectUI" folder="d2k0s" file="d2k0v.xml"/>
+    <component id="d2k0w" name="faceSub" folder="d2k0s" file="d2k0w.xml"/>
+  </resources>
+  <publish/>
+</packageDescription>

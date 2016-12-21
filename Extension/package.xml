@@ -11,7 +11,9 @@
     <image id="kuwo7" name="gsia9" folder="kuwo0" qualityOption="source" file="kuwo7.png" size="108,108" scale="9grid" scale9grid="17,16,74,73"/>
     <image id="kuwo8" name="gsia8" folder="kuwo0" qualityOption="source" file="kuwo8.png" size="78,141" scale="9grid" scale9grid="25,26,26,90"/>
     <image id="kuwo9" name="gsia3" folder="kuwo0" qualityOption="source" file="kuwo9.png" size="133,34"/>
-    <component id="kuwoa" name="mailItem" folder="" file="kuwoa.xml"/>
+    <component id="kuwoa" name="mailItem" folder="flddb" file="kuwoa.xml"/>
+    <folder id="flddb" name="win" folder=""/>
+    <component id="flddc" name="mailpanel" folder="flddb" file="flddc.xml" exported="true"/>
   </resources>
   <publish name="Extension"/>
 </packageDescription>

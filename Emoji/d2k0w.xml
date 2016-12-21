@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="60,60" extention="Button">
+  <displayList>
+    <graph id="n0" name="n0" xy="0,0" size="60,60" type="rect" lineColor="#ff999999" fillColor="#5effffff">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <loader id="n1" name="icon" xy="4,4" size="52,52" align="center" vAlign="middle" fill="scale">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+  </displayList>
+  <Button/>
+</component>

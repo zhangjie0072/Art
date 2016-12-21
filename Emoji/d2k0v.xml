@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="538,168">
+  <displayList>
+    <image id="n0" name="n0" src="d2k0j" xy="0,0" size="538,168"/>
+    <list id="n1" name="n1" xy="10,13" size="520,146" layout="flow_hz" margin="0,0,0,0" lineGap="15" colGap="15" defaultItem="ui://vziiq7tfd2k0w">
+      <item icon="ui://vziiq7tfd2k01"/>
+      <item icon="ui://vziiq7tfd2k02"/>
+      <item icon="ui://vziiq7tfd2k03"/>
+      <item icon="ui://vziiq7tfd2k04"/>
+      <item icon="ui://vziiq7tfd2k05"/>
+      <item icon="ui://vziiq7tfd2k06"/>
+      <item icon="ui://vziiq7tfd2k07"/>
+      <item icon="ui://vziiq7tfd2k08"/>
+      <item icon="ui://vziiq7tfd2k09"/>
+      <item icon="ui://vziiq7tfd2k0a"/>
+      <item icon="ui://vziiq7tfd2k0b"/>
+      <item icon="ui://vziiq7tfd2k0c"/>
+      <item icon="ui://vziiq7tfd2k0d"/>
+      <item icon="ui://vziiq7tfd2k0e"/>
+    </list>
+  </displayList>
+</component>

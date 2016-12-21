@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="145,106">
+  <displayList>
+    <component id="n0" name="blood" src="oi6k9" xy="0,86" touchable="false">
+      <ProgressBar value="50" max="100"/>
+    </component>
+    <loader id="n1" name="sign" xy="47,-1" size="50,50" url="ui://21gc3jcpoi6k5" align="center" vAlign="bottom"/>
+    <richtext id="n3" name="name" xy="-17,61" size="180,28" fontSize="24" color="#ff9966" ubb="true" strokeColor="#000000" text="Long [color=#FFFFFF]Long[/color][img]ui://21gc3jcpoi6k3[/img] Name">
+      <relation target="" sidePair="center-center"/>
+    </richtext>
+  </displayList>
+</component>

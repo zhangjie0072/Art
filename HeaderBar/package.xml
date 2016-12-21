@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="21gc3jcp" jpegQuality="80" compressPNG="true">
+  <resources>
+    <folder id="oi6k0" name="img" folder=""/>
+    <image id="oi6k1" name="0" folder="oi6k0" qualityOption="source" file="oi6k1.png" size="145,20"/>
+    <image id="oi6k2" name="1" folder="oi6k0" qualityOption="source" file="oi6k2.png" size="122,9" scale="9grid" scale9grid="7,2,108,3"/>
+    <jta id="oi6k3" name="cool" folder="oi6k0" file="oi6k3.jta" size="24,24" origin="0,0" exported="true"/>
+    <jta id="oi6k4" name="fighting" folder="oi6k0" origin="37,41" file="oi6k4.jta" size="73,70" exported="true"/>
+    <image id="oi6k5" name="task" folder="oi6k0" file="oi6k5.png" size="47,44" exported="true" qualityOption="source"/>
+    <folder id="oi6k6" name="comp" folder=""/>
+    <folder id="oi6k7" name="win" folder=""/>
+    <component id="oi6k8" name="HeaderBar" folder="oi6k6" file="oi6k8.xml" exported="true"/>
+    <component id="oi6k9" name="bloodbar" folder="oi6k6" file="oi6k9.xml"/>
+    <component id="fhv3a" name="HeaderBarWin" folder="oi6k7" file="fhv3a.xml" exported="true"/>
+    <component id="l29lb" name="test" folder="oi6k6" file="l29lb.xml"/>
+  </resources>
+  <publish name="HeaderBar"/>
+</packageDescription>

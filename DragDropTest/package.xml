@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="s5a7s4oc" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="ku4j0" name="huawen" folder="ku4j1" file="ku4j0.xml"/>
+    <folder id="ku4j1" name="comp" folder=""/>
+    <folder id="ku4j2" name="window" folder=""/>
+    <component id="ku4j3" name="DragDropTestWindow" folder="ku4j2" file="ku4j3.xml" exported="true"/>
+    <component id="ku4j4" name="touxiang" folder="ku4j1" file="ku4j4.xml"/>
+    <folder id="gash5" name="img" folder=""/>
+    <image id="gash6" name="huawen1.png" folder="gash5" qualityOption="source" file="gash6.png" size="85,59" exported="true"/>
+    <image id="gash7" name="k0" folder="gash5" qualityOption="source" file="gash7.png" size="90,91" exported="true"/>
+    <image id="gash8" name="k2" folder="gash5" qualityOption="source" file="gash8.png" size="100,100" exported="true"/>
+    <image id="gash9" name="r3" folder="gash5" qualityOption="source" file="gash9.png" size="90,90" exported="true"/>
+    <image id="gasha" name="gsia2" folder="gash5" qualityOption="source" file="gasha.png" size="261,63"/>
+  </resources>
+  <publish name="DragDropTest"/>
+</packageDescription>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="380,125">
+<component size="380,125" extention="Button">
   <controller name="c1" pages="0,未领,1,已领" selected="0"/>
   <controller name="IsRead" pages="0,未读,1,已读" selected="0"/>
   <controller name="button" pages="0,up,1,down,2,over,3,selectedOver" selected="0"/>
@@ -22,12 +22,9 @@
       <gearXY controller="c1" pages="1" values="230,4" default="230,4" tween="true"/>
     </image>
   </displayList>
+  <Button/>
   <transition name="t0">
-    <item time="0" type="Size" target="n8" tween="true" startValue="-,-" endValue="190,173" duration="6"/>
-    <item time="0" type="XY" target="n8" tween="true" startValue="-,-" endValue="206,-21" duration="6"/>
-    <item time="6" type="Size" target="n8" tween="true" startValue="190,173" endValue="144,119" duration="6" ease="Circ.Out"/>
-    <item time="6" type="XY" target="n8" tween="true" startValue="206,-21" endValue="233,4" duration="6"/>
-    <item time="12" type="Size" target="n8" tween="true" startValue="144,119"/>
-    <item time="12" type="XY" target="n8" tween="true" startValue="233,4"/>
+    <item time="0" type="Alpha" tween="true" startValue="0" endValue="1" duration="24"/>
+    <item time="0" type="Visible" value="true"/>
   </transition>
 </component>

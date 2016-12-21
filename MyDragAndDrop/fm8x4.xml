@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="130,150" extention="Button">
+<component size="130,150" extention="Button" bgColor="#cccccc">
   <displayList>
-    <graph id="n5" name="n5" xy="0,0" size="130,150" type="rect" fillColor="#ffcc99ff"/>
+    <graph id="n5" name="n5" xy="0,0" size="130,150" type="rect" fillColor="#ff999999"/>
     <image id="n0" name="n0" src="fm8x2" xy="2,24" size="125,125"/>
     <image id="n1" name="n1" src="fm8x1" xy="3,21" size="125,125"/>
-    <loader id="n2" name="icon" xy="63,83" pivot="0.5,0.5" anchor="true" size="125,125"/>
-    <text id="n3" name="title" xy="43,119" size="49,24" fontSize="20" color="#ffffff" bold="true" text="icon"/>
-    <image id="n4" name="n4" src="fm8x5" xy="4,2"/>
+    <loader id="n2" name="icon" xy="66,85" pivot="0.5,0.5" anchor="true" size="102,99" url="ui://ju4y74oufm8x8"/>
+    <image id="n4" name="n4" src="fm8x5" xy="4,2" size="66,50"/>
   </displayList>
   <Button/>
 </component>

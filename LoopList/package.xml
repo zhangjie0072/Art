@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="wudwsdba" jpegQuality="80" compressPNG="true">
+  <resources>
+    <folder id="glhh0" name="img" folder=""/>
+    <folder id="glhh1" name="comp" folder=""/>
+    <folder id="glhh2" name="win" folder=""/>
+    <image id="glhh3" name="n1" folder="glhh0" qualityOption="source" file="glhh3.png" size="248,378" exported="true"/>
+    <image id="glhh4" name="n2" folder="glhh0" qualityOption="source" file="glhh4.png" size="248,378" exported="true"/>
+    <image id="glhh5" name="n3" folder="glhh0" qualityOption="source" file="glhh5.png" size="248,378" exported="true"/>
+    <image id="glhh6" name="n4" folder="glhh0" qualityOption="source" file="glhh6.png" size="248,378" exported="true"/>
+    <image id="glhh7" name="n5" folder="glhh0" qualityOption="source" file="glhh7.png" size="248,378" exported="true"/>
+    <component id="glhh8" name="item" folder="glhh1" file="glhh8.xml"/>
+    <component id="glhh9" name="LoopListWin" folder="glhh2" file="glhh9.xml" exported="true"/>
+  </resources>
+  <publish name="LoopList"/>
+</packageDescription>

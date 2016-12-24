@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="bj8t6qep" jpegQuality="80" compressPNG="true">
+  <resources>
+    <folder id="pto70" name="img" folder=""/>
+    <folder id="pto71" name="comp" folder=""/>
+    <folder id="pto72" name="win" folder=""/>
+    <image id="pto73" name="0" folder="pto70" file="pto73.png" size="108,108" scale="9grid" scale9grid="17,16,74,73" qualityOption="source"/>
+    <image id="pto74" name="1" folder="pto70" file="pto74.png" size="50,62" scale="9grid" scale9grid="10,15,28,32" qualityOption="source"/>
+    <image id="pto75" name="2" folder="pto70" file="pto75.png" size="78,141" scale="9grid" scale9grid="25,26,26,90" qualityOption="source"/>
+    <image id="pto76" name="3" folder="pto70" file="pto76.png" size="261,63" scale="9grid" scale9grid="110,16,33,32" qualityOption="source"/>
+    <image id="pto77" name="4" folder="pto70" qualityOption="source" file="pto77.png" size="133,34"/>
+    <image id="pto78" name="6" folder="pto70" qualityOption="source" file="pto78.png" size="55,47"/>
+    <image id="pto79" name="7" folder="pto70" qualityOption="source" file="pto79.png" size="71,71"/>
+    <image id="pto7a" name="8" folder="pto70" qualityOption="source" file="pto7a.png" size="143,120"/>
+    <image id="pto7b" name="9" folder="pto70" qualityOption="source" file="pto7b.png" size="55,59"/>
+    <component id="pto7d" name="Button1" folder="pto71" file="pto7d.xml"/>
+    <component id="pto7e" name="mailItem" folder="pto71" file="pto7e.xml"/>
+    <component id="pto7f" name="VirtualListWin" folder="pto72" file="pto7f.xml" exported="true"/>
+  </resources>
+  <publish name="VirtualList"/>
+</packageDescription>

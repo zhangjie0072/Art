@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="400,400" bgColor="#ff99cc">
+<component size="400,400" extention="Button" bgColor="#ff99cc">
   <displayList>
     <graph id="n0" name="n0" xy="0,0" size="400,400" type="rect" fillColor="#ffff99cc"/>
     <text id="n1" name="n1" xy="124,128" size="131,16" fontSize="12" text="aaaaaaaaaaaaaaaaaaaaa"/>
   </displayList>
+  <Button mode="Check"/>
   <transition name="t0">
-    <item time="0" type="XY" target="n1" label="one" tween="true" startValue="124,-" endValue="210,211" duration="12"/>
+    <item time="0" type="XY" target="n1" label="one" tween="true" startValue="124,-" endValue="210,211" duration="12" label2="two"/>
     <item time="12" type="XY" target="n1" label="two" tween="true" startValue="210,211" endValue="65,260" duration="12"/>
     <item time="24" type="XY" target="n1" tween="true" startValue="65,260"/>
   </transition>

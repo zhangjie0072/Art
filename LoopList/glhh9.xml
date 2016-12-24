@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,640">
+  <displayList>
+    <list id="n1" name="list" xy="176,70" size="784,460" layout="row" overflow="scroll" scroll="horizontal" margin="0,0,20,0" colGap="20" defaultItem="ui://wudwsdbaglhh8">
+      <item icon="ui://wudwsdbaglhh3"/>
+      <item icon="ui://wudwsdbaglhh4"/>
+      <item icon="ui://wudwsdbaglhh5"/>
+    </list>
+    <text id="n2" name="n2" xy="330,562" size="327,32" group="n4" fontSize="28" color="#ffffff" text="Index of the middle is:"/>
+    <text id="n3" name="n3" xy="660,561" size="145,32" group="n4" fontSize="28" color="#ffffff" autoSize="height" text=""/>
+    <group id="n4" name="n4" xy="330,561" size="475,33" advanced="true">
+      <relation target="" sidePair="center-center"/>
+    </group>
+  </displayList>
+</component>

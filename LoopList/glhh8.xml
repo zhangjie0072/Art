@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="248,460" extention="Button">
+  <displayList>
+    <loader id="n0" name="icon" xy="0,41" size="248,378"/>
+  </displayList>
+  <Button/>
+</component>

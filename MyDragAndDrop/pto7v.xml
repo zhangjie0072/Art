@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="500,137" extention="Button">
+  <displayList>
+    <image id="n0" name="n0" src="t4mvf" xy="17,5"/>
+    <image id="n1" name="n1" src="duwkk" xy="39,11"/>
+  </displayList>
+  <Button mode="Radio"/>
+</component>

@@ -26,6 +26,9 @@
     <component id="gtg9q" name="MySlider222" folder="fm8x3" file="gtg9q.xml"/>
     <component id="km0cr" name="Button1" folder="fm8x3" file="km0cr.xml"/>
     <component id="dh5bs" name="Component1" folder="fm8x3" file="dh5bs.xml"/>
+    <component id="pto7t" name="TestWindow" folder="fm8x6" file="pto7t.xml"/>
+    <component id="pto7u" name="Text" folder="b1qsb" file="pto7u.xml"/>
+    <component id="pto7v" name="btn" folder="fm8x3" file="pto7v.xml"/>
   </resources>
   <publish name="MyDragAndDrop"/>
 </packageDescription>

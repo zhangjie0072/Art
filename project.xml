@@ -11,6 +11,8 @@
     <package id="vziiq7tf" name="Emoji"/>
     <package id="21gc3jcp" name="HeaderBar"/>
     <package id="24tv6v9v" name="Gesture"/>
+    <package id="bj8t6qep" name="VirtualList"/>
+    <package id="wudwsdba" name="LoopList"/>
   </packages>
   <textSetting font="宋体" size="12"/>
   <scrollBars/>

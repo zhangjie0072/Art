@@ -11,6 +11,7 @@
     <component id="jcqd7" name="Button1" folder="jcqd1" file="jcqd7.xml"/>
     <component id="jcqd8" name="Button2" folder="jcqd1" file="jcqd8.xml"/>
     <component id="jcqd9" name="Box" folder="jcqd1" file="jcqd9.xml"/>
+    <image id="lwiba" name="common_c_174" folder="jcqd0" qualityOption="source" file="lwiba.png" size="34,34"/>
   </resources>
   <publish name="ScrollPane"/>
 </packageDescription>

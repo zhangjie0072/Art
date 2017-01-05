@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="w9fdtwyk" jpegQuality="80" compressPNG="true">
+  <resources>
+    <folder id="glhh0" name="comp" folder=""/>
+    <folder id="glhh1" name="img" folder=""/>
+    <folder id="glhh2" name="win" folder=""/>
+    <image id="glhh3" name="10.png" folder="glhh1" qualityOption="source" file="glhh3.png" size="19,19"/>
+    <image id="glhh4" name="22" folder="glhh1" qualityOption="source" file="glhh4.png" size="97,97"/>
+    <image id="glhh5" name="6.png" folder="glhh1" qualityOption="source" file="glhh5.png" size="157,202" scale="9grid" scale9grid="40,40,80,142"/>
+    <image id="glhh6" name="8.png" folder="glhh1" qualityOption="source" file="glhh6.png" size="19,19"/>
+    <image id="glhh7" name="9.png" folder="glhh1" qualityOption="source" file="glhh7.png" size="19,19"/>
+    <image id="glhh8" name="Shape 1 copy 4" folder="glhh1" qualityOption="source" file="glhh8.png" size="99,99"/>
+    <image id="glhh9" name="VIP.png" folder="glhh1" qualityOption="source" file="glhh9.png" size="181,70"/>
+    <image id="glhha" name="VtSeperator" folder="glhh1" file="glhha.jpg" size="2,22" qualityOption="source"/>
+    <image id="glhhb" name="a1.png" folder="glhh1" file="glhhb.png" size="13,13" qualityOption="source"/>
+    <image id="glhhc" name="a18.png" folder="glhh1" qualityOption="source" file="glhhc.png" size="12,9"/>
+    <image id="glhhd" name="a2.png" folder="glhh1" file="glhhd.png" size="13,13" qualityOption="source"/>
+    <image id="glhhe" name="a3.png" folder="glhh1" file="glhhe.png" size="13,13" qualityOption="source"/>
+    <image id="glhhf" name="a4.png" folder="glhh1" file="glhhf.png" size="13,13" qualityOption="source"/>
+    <image id="glhhg" name="a8.png" folder="glhh1" file="glhhg.png" size="88,20" scale="9grid" scale9grid="8,5,70,10" qualityOption="source"/>
+    <image id="glhhh" name="angry_smile.png" folder="glhh1" qualityOption="source" file="glhhh.png" size="32,32"/>
+    <image id="glhhi" name="b1" folder="glhh1" qualityOption="source" file="glhhi.png" size="70,52"/>
+    <image id="glhhj" name="b1.png" folder="glhh1" qualityOption="source" file="glhhj.jpg" size="13,13"/>
+    <image id="glhhk" name="b12.png" folder="glhh1" qualityOption="source" file="glhhk.png" size="100,40"/>
+    <image id="glhhl" name="b13.png" folder="glhh1" qualityOption="source" file="glhhl.png" size="100,40"/>
+    <image id="glhhm" name="b2" folder="glhh1" qualityOption="source" file="glhhm.png" size="25,22"/>
+    <image id="glhhn" name="b2.png" folder="glhh1" qualityOption="source" file="glhhn.jpg" size="13,13"/>
+    <image id="glhho" name="b3" folder="glhh1" qualityOption="source" file="glhho.png" size="25,22"/>
+    <image id="glhhp" name="b3.png" folder="glhh1" qualityOption="source" file="glhhp.jpg" size="13,13"/>
+    <image id="glhhq" name="b4" folder="glhh1" file="glhhq.png" size="173,74" scale="9grid" scale9grid="40,17,80,34" qualityOption="source"/>
+    <image id="glhhr" name="b4.png" folder="glhh1" qualityOption="source" file="glhhr.jpg" size="13,13"/>
+    <image id="glhhs" name="b5" folder="glhh1" file="glhhs.png" size="163,69" scale="9grid" scale9grid="40,17,80,34" qualityOption="source"/>
+    <image id="glhht" name="b5.png" folder="glhh1" file="glhht.png" size="85,25" scale="9grid" scale9grid="12,7,61,14" qualityOption="source"/>
+    <image id="glhhu" name="b6.png" folder="glhh1" file="glhhu.png" size="85,25" scale="9grid" scale9grid="9,5,66,16" qualityOption="source"/>
+    <image id="glhhv" name="b7(2).png" folder="glhh1" qualityOption="source" file="glhhv.png" size="15,16"/>
+    <image id="glhhw" name="b7.png" folder="glhh1" qualityOption="source" file="glhhw.png" size="85,25" scale="9grid" scale9grid="8,7,66,14"/>
+    <image id="glhhx" name="back btn" folder="glhh1" qualityOption="source" file="glhhx.png" size="56,57"/>
+    <image id="glhhy" name="background" folder="glhh1" qualityOption="source" file="glhhy.png" size="361,23" scale="9grid" scale9grid="24,6,319,13"/>
+    <image id="glhhz" name="c1.png" folder="glhh1" file="glhhz.png" size="93,21" scale="9grid" scale9grid="7,5,73,10" qualityOption="source"/>
+    <image id="glhh10" name="c2.png" folder="glhh1" file="glhh10.png" size="93,21" scale="9grid" scale9grid="8,5,73,10" qualityOption="source"/>
+    <image id="glhh11" name="c3.png" folder="glhh1" file="glhh11.png" size="93,21" scale="9grid" scale9grid="11,5,71,10" qualityOption="source"/>
+    <image id="glhh12" name="caiji" folder="glhh1" qualityOption="source" file="glhh12.png" size="277,32"/>
+    <image id="glhh13" name="caiji2" folder="glhh1" qualityOption="source" file="glhh13.png" size="227,30"/>
+    <image id="glhh14" name="change" folder="glhh1" qualityOption="source" file="glhh14.png" size="282,500" scale="tile"/>
+    <image id="glhh15" name="close.png" folder="glhh1" qualityOption="source" file="glhh15.png" size="40,43"/>
+    <image id="glhh16" name="full bar" folder="glhh1" qualityOption="source" file="glhh16.png" size="143,21" scale="9grid" scale9grid="15,6,109,12"/>
+    <image id="glhh17" name="grid_header.png" folder="glhh1" file="glhh17.png" size="200,20" scale="9grid" scale9grid="50,5,100,10" qualityOption="source"/>
+    <jta id="glhh18" name="gz" folder="glhh1" file="glhh18.jta" size="24,24" origin="0,0"/>
+    <image id="glhh19" name="h0" folder="glhh1" qualityOption="source" file="glhh19.png" size="50,50"/>
+    <image id="glhh1a" name="h1" folder="glhh1" qualityOption="source" file="glhh1a.png" size="50,50"/>
+    <image id="glhh1b" name="h2" folder="glhh1" qualityOption="source" file="glhh1b.png" size="50,50"/>
+    <image id="glhh1c" name="h3" folder="glhh1" qualityOption="source" file="glhh1c.png" size="50,50"/>
+    <image id="glhh1d" name="h4" folder="glhh1" qualityOption="source" file="glhh1d.png" size="50,50"/>
+    <image id="glhh1e" name="h5" folder="glhh1" qualityOption="source" file="glhh1e.png" size="50,50"/>
+    <image id="glhh1f" name="h6" folder="glhh1" qualityOption="source" file="glhh1f.png" size="50,50"/>
+    <image id="glhh1g" name="h7" folder="glhh1" qualityOption="source" file="glhh1g.png" size="50,50"/>
+    <image id="glhh1h" name="h8" folder="glhh1" qualityOption="source" file="glhh1h.png" size="50,50"/>
+    <image id="glhh1i" name="h9" folder="glhh1" qualityOption="source" file="glhh1i.png" size="50,50"/>
+    <image id="glhh1j" name="huawen1.png" folder="glhh1" qualityOption="source" file="glhh1j.png" size="85,59"/>
+    <image id="glhh1k" name="huawen2.png" folder="glhh1" qualityOption="source" file="glhh1k.png" size="88,59"/>
+    <image id="glhh1l" name="i256" folder="glhh1" qualityOption="source" file="glhh1l.png" size="90,90"/>
+    <image id="glhh1m" name="k0" folder="glhh1" qualityOption="source" file="glhh1m.png" size="90,91"/>
+    <image id="glhh1n" name="k1" folder="glhh1" file="glhh1n.png" size="108,108" scale="9grid" scale9grid="17,16,74,73" qualityOption="source"/>
+    <image id="glhh1o" name="k10" folder="glhh1" qualityOption="source" file="glhh1o.png" size="55,46"/>
+    <image id="glhh1p" name="k11" folder="glhh1" qualityOption="source" file="glhh1p.png" size="49,49"/>
+    <image id="glhh1q" name="k12" folder="glhh1" file="glhh1q.png" size="159,52" scale="9grid" scale9grid="40,19,80,18" qualityOption="source"/>
+    <image id="glhh1r" name="k13" folder="glhh1" file="glhh1r.png" size="159,52" scale="9grid" scale9grid="40,13,80,26" qualityOption="source"/>
+    <image id="glhh1s" name="k14" folder="glhh1" file="glhh1s.png" size="159,52" scale="9grid" scale9grid="40,13,80,26" qualityOption="source"/>
+    <image id="glhh1t" name="k16" folder="glhh1" file="glhh1t.jpg" size="32,11" scale="9grid" scale9grid="8,5,16,2" qualityOption="source"/>
+    <image id="glhh1u" name="k17" folder="glhh1" file="glhh1u.png" size="105,21" scale="9grid" scale9grid="27,9,54,2" qualityOption="source"/>
+    <image id="glhh1v" name="k18" folder="glhh1" qualityOption="source" file="glhh1v.png" size="110,27"/>
+    <image id="glhh1w" name="k19" folder="glhh1" qualityOption="source" file="glhh1w.png" size="90,90"/>
+    <image id="glhh1x" name="k2" folder="glhh1" qualityOption="source" file="glhh1x.png" size="100,100"/>
+    <image id="glhh1y" name="k20" folder="glhh1" qualityOption="source" file="glhh1y.png" size="131,45"/>
+    <image id="glhh1z" name="k21" folder="glhh1" file="glhh1z.png" size="102,40" scale="9grid" scale9grid="11,7,82,26" qualityOption="source"/>
+    <image id="glhh20" name="k22" folder="glhh1" file="glhh20.png" size="102,40" scale="9grid" scale9grid="26,10,52,20" qualityOption="source"/>
+    <image id="glhh21" name="k23" folder="glhh1" file="glhh21.png" size="102,40" scale="9grid" scale9grid="26,10,52,20" qualityOption="source"/>
+    <image id="glhh22" name="k24" folder="glhh1" file="glhh22.png" size="102,40" scale="9grid" scale9grid="26,10,52,20" qualityOption="source"/>
+    <image id="glhh23" name="k25" folder="glhh1" qualityOption="source" file="glhh23.png" size="36,24"/>
+    <image id="glhh24" name="k26" folder="glhh1" qualityOption="source" file="glhh24.png" size="37,24"/>
+    <image id="glhh25" name="k27" folder="glhh1" qualityOption="source" file="glhh25.png" size="50,24"/>
+    <image id="glhh26" name="k28" folder="glhh1" file="glhh26.png" size="132,40" scale="9grid" scale9grid="33,10,55,20" qualityOption="source"/>
+    <image id="glhh27" name="k29" folder="glhh1" file="glhh27.png" size="132,40" scale="9grid" scale9grid="33,10,53,20" qualityOption="source"/>
+    <image id="glhh28" name="k3" folder="glhh1" qualityOption="source" file="glhh28.png" size="62,34" scale="9grid" scale9grid="16,9,32,6"/>
+    <image id="glhh29" name="k30" folder="glhh1" file="glhh29.png" size="132,40" scale="9grid" scale9grid="33,10,57,20" qualityOption="source"/>
+    <image id="glhh2a" name="k31" folder="glhh1" file="glhh2a.png" size="132,40" scale="9grid" scale9grid="33,10,55,20" qualityOption="source"/>
+    <image id="glhh2b" name="k32" folder="glhh1" qualityOption="source" file="glhh2b.png" size="104,42" scale="9grid" scale9grid="26,11,52,22"/>
+    <image id="glhh2c" name="k33" folder="glhh1" qualityOption="source" file="glhh2c.png" size="480,26"/>
+    <image id="glhh2d" name="k34" folder="glhh1" qualityOption="source" file="glhh2d.png" size="420,15" scale="9grid" scale9grid="41,4,342,5"/>
+    <image id="glhh2e" name="k35" folder="glhh1" qualityOption="source" file="glhh2e.png" size="55,46"/>
+    <image id="glhh2f" name="k36" folder="glhh1" qualityOption="source" file="glhh2f.png" size="49,49"/>
+    <image id="glhh2g" name="k4" folder="glhh1" qualityOption="source" file="glhh2g.png" size="66,44"/>
+    <image id="glhh2h" name="k5" folder="glhh1" qualityOption="source" file="glhh2h.png" size="66,44"/>
+    <image id="glhh2i" name="k6" folder="glhh1" file="glhh2i.png" size="62,41" scale="9grid" scale9grid="16,11,32,7" qualityOption="source"/>
+    <image id="glhh2j" name="k7" folder="glhh1" qualityOption="source" file="glhh2j.png" size="89,26"/>
+    <image id="glhh2k" name="k8" folder="glhh1" qualityOption="source" file="glhh2k.png" size="69,62"/>
+    <image id="glhh2l" name="k9" folder="glhh1" qualityOption="source" file="glhh2l.png" size="69,62"/>
+    <image id="glhh2m" name="loading.png" folder="glhh1" qualityOption="source" file="glhh2m.jpg" size="4,16" includedInAtlas="1"/>
+    <image id="glhh2n" name="long_dead.png" folder="glhh1" qualityOption="source" file="glhh2n.png" size="32,32"/>
+    <image id="glhh2o" name="long_dead2.png" folder="glhh1" file="glhh2o.png" size="32,32" scale="tile" qualityOption="source"/>
+    <jta id="glhh2p" name="nlge1k" folder="glhh1" origin="30,29" file="glhh2p.jta" size="59,59"/>
+    <image id="glhh2q" name="p1.png" folder="glhh1" file="glhh2q.png" size="162,63" scale="9grid" scale9grid="7,4,144,49" qualityOption="source"/>
+    <image id="glhh2r" name="p10.png" folder="glhh1" file="glhh2r.png" size="112,23" qualityOption="source"/>
+    <image id="glhh2s" name="p11.png" folder="glhh1" qualityOption="source" file="glhh2s.png" size="62,3"/>
+    <image id="glhh2t" name="p12.png" folder="glhh1" qualityOption="source" file="glhh2t.png" size="3,62"/>
+    <image id="glhh2u" name="p13.png" folder="glhh1" file="glhh2u.png" size="23,112" qualityOption="source"/>
+    <image id="glhh2v" name="p14.png" folder="glhh1" file="glhh2v.png" size="10,19" qualityOption="source"/>
+    <image id="glhh2w" name="p15.png" folder="glhh1" file="glhh2w.png" size="10,19" qualityOption="source"/>
+    <image id="glhh2x" name="p16.png" folder="glhh1" file="glhh2x.png" size="162,63" scale="9grid" scale9grid="7,4,144,49" qualityOption="source"/>
+    <image id="glhh2y" name="p2.png" folder="glhh1" file="glhh2y.png" size="145,12" scale="9grid" scale9grid="10,4,121,4" qualityOption="source"/>
+    <image id="glhh2z" name="p3.png" folder="glhh1" file="glhh2z.png" size="53,6" qualityOption="source"/>
+    <image id="glhh30" name="p8.png" folder="glhh1" file="glhh30.png" size="19,10" qualityOption="source"/>
+    <image id="glhh31" name="p9.png" folder="glhh1" file="glhh31.png" size="19,10" qualityOption="source"/>
+    <jta id="glhh32" name="pet" folder="glhh1" origin="59,61" file="glhh32.jta" size="84,74"/>
+    <image id="glhh33" name="pic" folder="glhh1" qualityOption="source" file="glhh33.png" size="179,386"/>
+    <image id="glhh34" name="plus_smile.png" folder="glhh1" qualityOption="source" file="glhh34.png" size="32,32"/>
+    <swf id="glhh35" name="qtm01d" folder="glhh1" file="glhh35.swf" size="176,176"/>
+    <image id="glhh36" name="r3" folder="glhh1" qualityOption="source" file="glhh36.png" size="90,90" exported="true"/>
+    <image id="glhh37" name="r4" folder="glhh1" qualityOption="source" file="glhh37.png" size="89,90" exported="true"/>
+    <image id="glhh38" name="s1.png" folder="glhh1" qualityOption="source" file="glhh38.jpg" size="9,20" includedInAtlas="1"/>
+    <image id="glhh39" name="s10.png" folder="glhh1" qualityOption="source" file="glhh39.jpg" size="17,20" includedInAtlas="1"/>
+    <image id="glhh3a" name="s2.png" folder="glhh1" qualityOption="source" file="glhh3a.jpg" size="9,20" includedInAtlas="1"/>
+    <image id="glhh3b" name="s3.png" folder="glhh1" qualityOption="source" file="glhh3b.jpg" size="9,20" includedInAtlas="1"/>
+    <image id="glhh3c" name="s4.png" folder="glhh1" qualityOption="source" file="glhh3c.jpg" size="11,7" includedInAtlas="1"/>
+    <image id="glhh3d" name="s5.png" folder="glhh1" qualityOption="source" file="glhh3d.jpg" size="11,7" includedInAtlas="1"/>
+    <image id="glhh3e" name="s6.png" folder="glhh1" qualityOption="source" file="glhh3e.jpg" size="11,7" includedInAtlas="1"/>
+    <image id="glhh3f" name="s7.png" folder="glhh1" qualityOption="source" file="glhh3f.jpg" size="11,7" includedInAtlas="1"/>
+    <image id="glhh3g" name="s8.png" folder="glhh1" qualityOption="source" file="glhh3g.jpg" size="11,7" includedInAtlas="1"/>
+    <image id="glhh3h" name="s9.png" folder="glhh1" qualityOption="source" file="glhh3h.jpg" size="11,7" includedInAtlas="1"/>
+    <image id="glhh3i" name="start" folder="glhh1" qualityOption="source" file="glhh3i.png" size="90,23" scale="tile"/>
+    <component id="glhh3j" name="CircleProgress" folder="glhh0" file="glhh3j.xml"/>
+    <component id="glhh3k" name="Demo_Button" folder="glhh0" file="glhh3k.xml"/>
+    <component id="glhh3l" name="Button" folder="glhh0" file="glhh3l.xml"/>
+    <component id="glhh3m" name="Button1" folder="glhh0" file="glhh3m.xml"/>
+    <component id="glhh3n" name="Button10" folder="glhh0" file="glhh3n.xml"/>
+    <component id="glhh3o" name="Button13" folder="glhh0" file="glhh3o.xml"/>
+    <component id="glhh3p" name="Button14" folder="glhh0" file="glhh3p.xml"/>
+    <component id="glhh3q" name="Button15" folder="glhh0" file="glhh3q.xml"/>
+    <component id="glhh3r" name="Button16" folder="glhh0" file="glhh3r.xml"/>
+    <component id="glhh3s" name="Button2" folder="glhh0" file="glhh3s.xml"/>
+    <component id="glhh3t" name="Button3" folder="glhh0" file="glhh3t.xml"/>
+    <component id="glhh3u" name="Button4" folder="glhh0" file="glhh3u.xml"/>
+    <component id="glhh3v" name="Button5" folder="glhh0" file="glhh3v.xml"/>
+    <component id="p0vo3w" name="Button52" folder="glhh0" file="p0vo3w.xml"/>
+    <component id="cei73x" name="Button6" folder="glhh0" file="cei73x.xml"/>
+    <component id="cei73y" name="Button7" folder="glhh0" file="cei73y.xml"/>
+    <component id="cei73z" name="Button8" folder="glhh0" file="cei73z.xml"/>
+    <component id="cei740" name="Button82" folder="glhh0" file="cei740.xml"/>
+    <component id="cei741" name="Button9" folder="glhh0" file="cei741.xml"/>
+    <component id="cei742" name="Checkbox" folder="glhh0" file="cei742.xml"/>
+    <component id="cei743" name="CloseButton" folder="glhh0" file="cei743.xml"/>
+    <component id="cei744" name="ComboBox_item" folder="glhh0" file="cei744.xml"/>
+    <component id="cei745" name="ComboBox_popup" folder="glhh0" file="cei745.xml"/>
+    <component id="cei746" name="ComboBox" folder="glhh0" file="cei746.xml" exported="true"/>
+  </resources>
+  <publish/>
+</packageDescription>

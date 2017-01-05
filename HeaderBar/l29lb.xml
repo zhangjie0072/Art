@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="400,400">
   <displayList>
-    <richtext id="n0" name="name" xy="121,145" size="173,28" fontSize="24" color="#ff6600" ubb="true" strokeColor="#000000" text="Long [color=#FFFFFF]Long[/color][img]ui://21gc3jcpoi6k3[/img] Name">
+    <richtext id="n0" name="name" xy="-95,145" size="605,28" fontSize="24" color="#ff6600" ubb="true" strokeColor="#000000" text="[backcolor=#F1F1111]Long [/backcolor][color=#FFFFFF]Long我们[/color][img]ui://21gc3jcpoi6k3[/img] Name">
       <relation target="" sidePair="center-center"/>
     </richtext>
   </displayList>

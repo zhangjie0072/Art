@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="eb1m12bw" jpegQuality="80" compressPNG="true">
+  <resources>
+    <folder id="l4xz0" name="Res" folder=""/>
+    <image id="l4xz1" name="0(2)5.png" folder="l4xz0" file="l4xz1.png" size="30,35" qualityOption="source"/>
+    <image id="l4xz2" name="0(4).png" folder="l4xz0" file="l4xz2.png" size="30,35" qualityOption="source"/>
+    <image id="l4xz3" name="1(2)5.png" folder="l4xz0" file="l4xz3.png" size="30,35" qualityOption="source"/>
+    <image id="l4xz4" name="1(4).png" folder="l4xz0" file="l4xz4.png" size="30,35" qualityOption="source"/>
+    <image id="l4xz5" name="2(2)5.png" folder="l4xz0" file="l4xz5.png" size="30,35" qualityOption="source"/>
+    <image id="l4xz6" name="2(4).png" folder="l4xz0" file="l4xz6.png" size="30,35" qualityOption="source"/>
+    <image id="l4xz7" name="3(2)5.png" folder="l4xz0" file="l4xz7.png" size="30,35" qualityOption="source"/>
+    <image id="l4xz8" name="3(4).png" folder="l4xz0" file="l4xz8.png" size="30,35" qualityOption="source"/>
+    <image id="l4xz9" name="4(2)5.png" folder="l4xz0" file="l4xz9.png" size="30,35" qualityOption="source"/>
+    <image id="l4xza" name="4(4).png" folder="l4xz0" file="l4xza.png" size="30,35" qualityOption="source"/>
+    <image id="l4xzb" name="5(2)5.png" folder="l4xz0" file="l4xzb.png" size="30,35" qualityOption="source"/>
+    <image id="l4xzc" name="5(4).png" folder="l4xz0" file="l4xzc.png" size="30,35" qualityOption="source"/>
+    <image id="l4xzd" name="6(2)5.png" folder="l4xz0" file="l4xzd.png" size="30,35" qualityOption="source"/>
+    <image id="l4xze" name="6(4).png" folder="l4xz0" file="l4xze.png" size="30,35" qualityOption="source"/>
+    <image id="l4xzf" name="7(2)5.png" folder="l4xz0" file="l4xzf.png" size="30,35" qualityOption="source"/>
+    <image id="l4xzg" name="7(4).png" folder="l4xz0" file="l4xzg.png" size="30,35" qualityOption="source"/>
+    <image id="l4xzh" name="8(2)5.png" folder="l4xz0" file="l4xzh.png" size="30,35" qualityOption="source"/>
+    <image id="l4xzi" name="8(4).png" folder="l4xz0" file="l4xzi.png" size="30,35" qualityOption="source"/>
+    <image id="l4xzj" name="9(2)5.png" folder="l4xz0" file="l4xzj.png" size="30,35" qualityOption="source"/>
+    <image id="l4xzk" name="9(4).png" folder="l4xz0" file="l4xzk.png" size="30,35" qualityOption="source"/>
+    <image id="l4xzl" name="critical" folder="l4xz0" qualityOption="source" file="l4xzl.png" size="148,83" exported="true"/>
+    <image id="l4xzm" name="m1.png" folder="l4xz0" file="l4xzm.png" size="30,35" qualityOption="source"/>
+    <image id="l4xzn" name="m2.png" folder="l4xz0" file="l4xzn.png" size="30,35" qualityOption="source"/>
+    <folder id="l4xzo" name="comp" folder=""/>
+    <font id="l4xzp" name="yellow_font" folder="l4xzo" file="l4xzp.fnt" exported="true"/>
+    <font id="l4xzq" name="red_font" folder="l4xzo" file="l4xzq.fnt" exported="true"/>
+    <component id="l4xzr" name="Main" folder="l4xzo" file="l4xzr.xml" exported="true"/>
+  </resources>
+  <publish name="EmitNumbers"/>
+</packageDescription>

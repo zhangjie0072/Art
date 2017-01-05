@@ -13,6 +13,8 @@
     <package id="24tv6v9v" name="Gesture"/>
     <package id="bj8t6qep" name="VirtualList"/>
     <package id="wudwsdba" name="LoopList"/>
+    <package id="w9fdtwyk" name="Basics"/>
+    <package id="eb1m12bw" name="EmitNumbers"/>
   </packages>
   <textSetting font="宋体" size="12"/>
   <scrollBars/>

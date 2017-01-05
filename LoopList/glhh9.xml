@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="1136,640">
   <displayList>
+    <graph id="n5" name="n5" xy="10,4" size="1119,634" type="rect" lineColor="#ffffccff" fillColor="#ffffffcc"/>
     <list id="n1" name="list" xy="176,70" size="784,460" layout="row" overflow="scroll" scroll="horizontal" margin="0,0,20,0" colGap="20" defaultItem="ui://wudwsdbaglhh8">
       <item icon="ui://wudwsdbaglhh3"/>
       <item icon="ui://wudwsdbaglhh4"/>

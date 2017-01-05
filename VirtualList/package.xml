@@ -16,6 +16,9 @@
     <component id="pto7d" name="Button1" folder="pto71" file="pto7d.xml"/>
     <component id="pto7e" name="mailItem" folder="pto71" file="pto7e.xml"/>
     <component id="pto7f" name="VirtualListWin" folder="pto72" file="pto7f.xml" exported="true"/>
+    <component id="hbzmg" name="Button8" folder="pto71" file="hbzmg.xml"/>
+    <image id="hbzmh" name="k11" folder="pto71" qualityOption="source" file="hbzmh.png" size="49,49"/>
+    <image id="hbzmi" name="k10" folder="pto71" qualityOption="source" file="hbzmi.png" size="55,46"/>
   </resources>
   <publish name="VirtualList"/>
 </packageDescription>
